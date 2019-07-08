@@ -32,5 +32,5 @@ function decimalPressed(dot) {
 document.querySelector('.clear').addEventListener ('click', clearAll); 
 
 function clearAll() {
-    display.value = " ";
+    display.value = ' ';
 }
